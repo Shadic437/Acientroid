@@ -1,0 +1,3 @@
+author = ???
+version = 2.0.1
+displayName = Ancientoid Mod
